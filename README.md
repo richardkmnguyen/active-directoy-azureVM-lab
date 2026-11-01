@@ -17,6 +17,8 @@ My domain: **`lab.local`**.
 | **Platform** | Azure VM, Windows Server 2025 Datacenter|
 | **Time** | 3 to 5 hours across multiple sessions |
 
+<img width="1306" height="746" alt="image" src="https://github.com/user-attachments/assets/49186abd-a815-4607-b0ec-5071708c7afe" />
+
 ---
 
 ## What Active Directory does
